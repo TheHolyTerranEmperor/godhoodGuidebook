@@ -1,2 +1,2 @@
 # godhoodGuidebook
-minecraft kubejs project
+notes and ideas
