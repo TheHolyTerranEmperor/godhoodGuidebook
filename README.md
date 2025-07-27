@@ -1,2 +1,2 @@
 # godhoodGuidebook
-notes and ideas
+a server side mod
